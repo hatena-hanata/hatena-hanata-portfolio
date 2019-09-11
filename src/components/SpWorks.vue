@@ -2,7 +2,7 @@
 
       <v-card class="card">
         <v-card-title class='title green lighten-2'>
-          Works
+          スマホ用Works
         </v-card-title>
 
         
@@ -48,7 +48,7 @@
                 </v-card>
 
                 <!--中の小さいカード-->
-                <v-card class="mini-card">
+                <!-- <v-card class="mini-card">
                     <v-card-title class='title green lighten-3'>
                         Depth of Reason（研究）
                     </v-card-title>
@@ -63,7 +63,7 @@
                                 Djangoを用いて開発しました。
                         </div>
                     </v-card-content>
-                </v-card>
+                </v-card> -->
             </div>
 
         </v-card-content>
@@ -102,5 +102,13 @@ export default {
   width: 40vw;
   margin: 20px;
   border-radius: 10px;
+}
+/* パソコンで見たときは"pc"のclassがついた画像が表示される */
+.pc { display: block !important; }
+.sp { display: none !important; }
+/* スマートフォンで見たときは"sp"のclassがついた画像が表示される */
+@media only screen and (max-width: 750px) {
+.pc { display: none !important; }
+.sp { display: block !important; }
 }
 </style>

@@ -20,18 +20,8 @@
       <!--成果物-->
       <Works/>
 
-      <v-card class="card">
-        <v-card-title class='title blue lighten-3'>
-          Skill
-        </v-card-title>
-        <v-card-content>
-          <div class="text-center pt-4 pb-4">
-            よく使う：Python・PostgreSQL・Django<br>
-            たまに使う：JavaScript（Vue.js）・R・C言語<br>
-            資格：統計検定2級、基本情報技術者試験合格
-          </div>
-        </v-card-content>
-      </v-card>
+
+      <Skill/>
 
       <!--趣味-->
       <Hobby/>
@@ -57,11 +47,13 @@
 <script>
 import Works from './Works';
 import Hobby from './Hobby';
+import Skill from './Skill';
 export default {
   // name:'HelloWorld',
   components: {
     Works,
     Hobby,
+    Skill,
   },
   data: () => ({
   }),
@@ -79,7 +71,7 @@ export default {
 }
 .card {
   width: 80vw;
-  margin: 100px;
+  margin: 30px;
   border-radius: 10px;
 }
 .title {
