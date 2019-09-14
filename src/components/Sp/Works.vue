@@ -14,6 +14,11 @@
             <v-expansion-panel>
               <v-expansion-panel-header class='green lighten-4'>Key判別AI</v-expansion-panel-header>
               <v-expansion-panel-content>
+
+                  <div class="img_block">
+                    <img src='@/assets/keyai.png' class='sp-card-image pt-4'/>
+                  </div>
+
                 <div class="text-center pt-4">
                     <v-btn class='mx-2 btn-round' href='https://keyjudgeai.herokuapp.com/kj_ai/' target='_blank'>App</v-btn>
                     <v-btn class='mx-2 btn-round' href='https://github.com/hatena-hanata/KJA_app' target='_blank'>Code</v-btn>
@@ -30,6 +35,9 @@
             <v-expansion-panel>
               <v-expansion-panel-header class='green lighten-4'>TSUTAYA在庫検索フィルター</v-expansion-panel-header>
               <v-expansion-panel-content>
+                                      <div class="img_block">
+                            <img src='@/assets/tutaya.png' class='sp-card-image py-4'/>
+                          </div>
                   <div class="text-center pt-4">
                       <v-btn class='mx-2 btn-round' href='https://github.com/hatena-hanata/Search_zaiko_app' target='_blank'>Code</v-btn>
                       <v-btn class='mx-2 btn-round' href='https://qiita.com/hanata/items/0b0f733e87cd67ec8fe7' target='_blank'>Qiita</v-btn>
@@ -46,6 +54,9 @@
             <v-expansion-panel>
               <v-expansion-panel-header class='green lighten-4'>Depth of Reason（研究）</v-expansion-panel-header>
               <v-expansion-panel-content>
+                <div class="img_block">
+                            <img src='@/assets/depth.png' class='sp-card-image py-4'/>
+                      </div>
                 <div class="text-center pt-4">
                         <v-btn class='mx-2 btn-round' href='https://depthofreason.herokuapp.com/select_csv/' target='_blank'>App</v-btn>
                         <v-btn class='mx-2 btn-round' href='https://github.com/hatena-hanata/DOR_APP' target='_blank'>Code</v-btn>
@@ -76,21 +87,6 @@ export default {
 
 
 <style>
-/* .container {
-  display: flex;
-  justify-content: center;
-}
-.logo {
-  width: 100vw;
-}
-.card {
-  width: 80vw;
-  margin: 100px;
-  border-radius: 10px;
-}
-.title {
-  justify-content: center;
-} */
 .mini-card {
   width: 40vw;
   margin: 20px;
@@ -106,5 +102,17 @@ export default {
 }
 .btn-round{
   border-radius: 50px;
+}
+
+.sp-card-image{
+  width:100%;
+  height:100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.img_block img{
+     display: block;
+     margin:auto;
 }
 </style>

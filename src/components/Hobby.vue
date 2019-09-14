@@ -17,6 +17,9 @@
                         </v-card-title>
 
                         <v-card-content>
+                          <div class="img_block">
+                            <img src='@/assets/blog.png' class='card-image py-4'/>
+                  </div>
                             <p class='text-center py-4 px-2'>
                                 耳コピした曲のギター用コード譜や<br>ベースのTab譜を公開しています。<br><br>
                                 <a href="http://hanatasdiary.hatenablog.com/" target="_blank">はなたの日記</a>
@@ -31,6 +34,9 @@
                     </v-card-title>
 
                     <v-card-content>
+                      <div class="img_block">
+                            <img src='@/assets/youtube.png' class='card-image py-4'/>
+                  </div>
                         <p class='text-center py-4 px-2'>
                             ベースの演奏動画をアップロードしています。<br><br>
                             <a href="https://www.youtube.com/channel/UCXfCw6GmILC8gj8c07rl_2g/" target="_blank">はなたの部屋</a>
