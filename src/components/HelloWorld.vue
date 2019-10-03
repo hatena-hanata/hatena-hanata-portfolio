@@ -27,7 +27,7 @@
         <v-card-content>
           <div class="text-center pt-4 pb-4">
             よく使う：Python・PostgreSQL・Django<br>
-            たまに使う：JavaScript（Vue.js）・R・C言語<br>
+            たまに使う：JavaScript（Vue.js）・R・C言語・flask<br>
             資格：統計検定2級、基本情報技術者試験合格
           </div>
         </v-card-content>
@@ -44,7 +44,8 @@
         <v-card-content>
           <p class='text-center py-4 px-2'>
               mail:hatena.hanata＠gmail.com<br>
-              Qiita:<a href='https://qiita.com/hanata'>https://qiita.com/hanata</a>
+              Qiita:<a href='https://qiita.com/hanata'>https://qiita.com/hanata</a><br>
+              GitHub:<a href='https://github.com/hatena-hanata'>https://github.com/hatena-hanata</a>
           </p>
         </v-card-content>
       </v-card>

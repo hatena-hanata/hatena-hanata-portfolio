@@ -50,6 +50,40 @@
               </v-expansion-panel-content>
             </v-expansion-panel>
 
+            <v-expansion-panel>
+              <v-expansion-panel-header class='green lighten-4'>Key判別Bot(LINE BOT)</v-expansion-panel-header>
+              <v-expansion-panel-content>
+                                      <div class="img_block">
+                            <img src='@/assets/linebot2.png' class='sp-card-image py-4'/>
+                          </div>
+                  <div class="text-center pt-4">
+                    <v-btn class='mx-2 btn-round' href='https://github.com/hatena-hanata/pupple_bot' target='_blank'>Code</v-btn>
+                            <v-btn disabled class='mx-2 btn-round' href='#' target='_blank'>Qiita</v-btn>
+                     </div>
+                  <div class="text-center px-2 py-4">
+                      U-fretに掲載されている楽曲のコード進行から、キーを判別します。<br>
+                            アーティスト名や曲名の入力に対応しています。<br>
+                            開発技術：Python(flask)
+                  </div>
+              </v-expansion-panel-content>
+            </v-expansion-panel>
+
+            <v-expansion-panel>
+              <v-expansion-panel-header class='green lighten-4'>Portfolio</v-expansion-panel-header>
+              <v-expansion-panel-content>
+                <div class="img_block">
+                            <img src='@/assets/portfolio.png' class='sp-card-image py-4'/>
+                      </div>
+                <div class="text-center pt-4">
+                  <v-btn class='mx-2 btn-round' href='https://github.com/hatena-hanata/hatena-hanata-portfolio' target='_blank'>Code</v-btn>
+                        </div>
+                    <div class="text-center px-2 py-4">
+                        このページです。<br>
+                                開発技術：JavaScript(Vue.js)
+                </div>
+              </v-expansion-panel-content>
+            </v-expansion-panel>
+
             <!--3つめ-->
             <v-expansion-panel>
               <v-expansion-panel-header class='green lighten-4'>Depth of Reason（研究）</v-expansion-panel-header>
