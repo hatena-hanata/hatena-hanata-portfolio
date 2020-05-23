@@ -92,7 +92,7 @@
                             <img src='@/assets/depth.png' class='sp-card-image py-4'/>
                       </div>
                 <div class="text-center pt-4">
-                        <v-btn class='mx-2 btn-round' href='https://depthofreason.herokuapp.com/select_csv/' target='_blank'>App</v-btn>
+                        <v-btn disabled class='mx-2 btn-round' href='#' target='_blank'>App</v-btn>
                         <v-btn class='mx-2 btn-round' href='https://github.com/hatena-hanata/DOR_APP' target='_blank'>Code</v-btn>
                     </div>
                     <div class="text-center px-2 py-4">
