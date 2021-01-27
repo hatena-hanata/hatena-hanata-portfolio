@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Profile
+Name:Ryota Ishimura
 
-You can use the [editor on GitHub](https://github.com/hatena-hanata/hatena-hanata-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+* 2015.04 - 2019.03  
+Hitotsubashi University, Faculty of Economics(Major:Econometrics)  
+Tomiura Seminor.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 2019.04 - 2021.03
+Tokyo Institute of Technology, School of Computing Department of Computer Science(Major:Computer Science)  
+Yano lab.
 
-```markdown
-Syntax highlighted code block
+### Career
 
-# Header 1
-## Header 2
-### Header 3
+* 2018.12 - 2020.05  
+Cacco Inc. (intern)
 
-- Bulleted
-- List
+* 2020.06 - 2021.03
+DMM.com (intern)
 
-1. Numbered
-2. List
+## Skills
+* Python  
+* SQL  
+* C
+* JavaScript
+* Docker  
+etc...
 
-**Bold** and _Italic_ and `Code` text
+## Hobby
+* Playing the musical instruments (Guitar, Bass, Piano)  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hatena-hanata/hatena-hanata-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Links
+* [YouTube channnel](https://www.youtube.com/channel/UCXfCw6GmILC8gj8c07rl_2g):guitar:
+* [Twitter](https://twitter.com/Xc6Da)
+* [Zenn](https://zenn.dev/hanata)
+* [Qiita](https://qiita.com/hanata)
