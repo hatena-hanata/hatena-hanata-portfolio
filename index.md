@@ -6,7 +6,7 @@ Name:Ryota Ishimura
 Hitotsubashi University, Faculty of Economics(Major:Econometrics)  
 Tomiura Seminor.
 
-* 2019.04 - 2021.03
+* 2019.04 - 2021.03  
 Tokyo Institute of Technology, School of Computing Department of Computer Science(Major:Computer Science)  
 Miyake & Yano Lab.
 
