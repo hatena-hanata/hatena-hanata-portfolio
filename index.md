@@ -3,11 +3,11 @@ Name:Ryota Ishimura
 
 ### Education
 * 2015.04 - 2019.03  
-Hitotsubashi University, Faculty of Economics(Major:Econometrics)  
+Hitotsubashi University, Faculty of Economics (Major:Econometrics)  
 Tomiura Seminor.
 
 * 2019.04 - 2021.03  
-Tokyo Institute of Technology, School of Computing Department of Computer Science(Major:Computer Science)  
+Tokyo Institute of Technology, School of Computing (Major:Computer Science)  
 Miyake & Yano Lab.
 
 ### Career
@@ -29,7 +29,7 @@ etc...
 * Playing the musical instruments (Guitar, Bass, Piano)  
 
 ## Links
-* [YouTube channnel](https://www.youtube.com/channel/UCXfCw6GmILC8gj8c07rl_2g):guitar:
+* [YouTube channnel](https://www.youtube.com/channel/UCXfCw6GmILC8gj8c07rl_2g)
 * [Twitter](https://twitter.com/Xc6Da)
 * [Zenn](https://zenn.dev/hanata)
 * [Qiita](https://qiita.com/hanata)
