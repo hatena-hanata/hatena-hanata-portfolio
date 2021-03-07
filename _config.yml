@@ -1,5 +1,5 @@
 title: Profile
-logo: /assets/img/my_logo.jpg
+logo: /assets/img/my_image.jpg
 description: my profile
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
