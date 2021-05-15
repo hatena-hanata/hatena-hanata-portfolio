@@ -20,9 +20,6 @@ DMM.com, Analyst team (intern)
 ## Skills
 * Python  
 * SQL  
-* C
-* JavaScript
-* Docker  
 etc...
 
 ## Hobby
