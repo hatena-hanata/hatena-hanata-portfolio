@@ -14,8 +14,11 @@ Miyake & Yano Lab.
 * 2018.12 - 2020.05  
 Cacco Inc, DataScience department (intern)
 
-* 2020.06 - now  
+* 2020.06 - 2021.03  
 DMM.com, Analyst team (intern)
+
+* 2021.07 - now  
+DMM.com, Analyst team
 
 ## Skills
 * Python  
